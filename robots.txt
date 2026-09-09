@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evergreentechnologywy.github.io/reference-jcuwoy/sitemap.xml
